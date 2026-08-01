@@ -1,5 +1,6 @@
 # Retinal_Vessel_Segmentation_UNet
 Automated Retinal Vessel Segmentation using PyTorch U-Net, CLAHE Preprocessing, and Custom Dice-Focal Loss on the DRIVE Dataset
+🌐 **Live Web Application:** [Try the Retinal Vessel Segmentation App Live on Hugging Face](https://huggingface.co/spaces/SaiGanesh-26/retinal-vessel-segmentation)
 ![Retinal Vessel Segmentation Pipeline](retinal%20vessel%20segmentation.png)
 *Figure: (1) Original RGB Fundus Scan, (2) Green Channel + CLAHE Contrast Enhancement, (3) U-Net Predicted Binary Mask, (4) Semi-Transparent Red Vessel Overlay.*
 
